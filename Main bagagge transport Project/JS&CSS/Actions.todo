@@ -1,0 +1,15 @@
+on the specification of username and password & 
+The Pressing Of the Login Button:
+    ------Header-------------
+    ☐ LogedIn - Hidden
+    ☐ Div UserInfo - Visible
+    
+    If the User Is Admin/Shopper:
+    ------Header-------------
+        ☐ Header LogedIn - Hidden
+        ☐ SysHeader - Visible
+    ------Footer-------------
+        ☐ Footer - Hidden
+        ☐ SysFooter - Visible
+    
+

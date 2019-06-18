@@ -1,0 +1,87 @@
+body{
+    margin: 0px;
+    background-color: #cccccc;
+}
+.Header{
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+}
+.Slogen{
+    display: inline;
+    color: aliceblue;
+}
+li{ 
+
+    display: inline;
+    width: 20%;
+    color: brown;
+    font-weight: bold;
+    font-size: 25px; 
+    list-style-type: none;
+    padding: 0 30px ;
+    border-radius: 3px 5px 0 0;
+    background-color: aqua;
+    margin: 15px;
+    
+ 
+}
+ul{
+    display: inline-block;
+    padding: 0px;
+    margin: 0px;
+}
+.login{
+    float: right;
+}
+.login p{
+    display: inline;
+    color: #fff;
+}
+.Content{
+    display: inline-block;
+    clear: both;
+    width: 75%;
+    background-color: darkgray
+}
+.Sidebar{
+    text-align: center;
+    float: Right;
+    width: 25%;
+}
+.Footer{
+    text-align: center;
+    width: 100%;
+    float: left;
+    background-color: burlywood;
+    border-style: groove;
+
+}
+.Terms{
+    display: inline;
+}
+.Sidebar p {
+    display: inline;
+}
+.Sidebar input {
+    float: right;
+
+}
+.Sidebar #Iaccept{
+    float: left;
+}
+.Header a{
+    text-decoration: none;
+    color: brown;
+}
+.SystemLogo{
+    float: right;
+    color: green;
+}
+h1{
+    font-weight: bolder;
+    color: lightgreen;
+}
+.Sidebar h4{
+    text-decoration-line: underline;
+}
